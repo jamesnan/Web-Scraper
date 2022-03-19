@@ -13,8 +13,8 @@ This is a project crawling Job postings from Indeed.com using python scrapy and 
 * job_url 
 
 ### 2. IndeedSpider Class
-* <b>start_urls</b> has url of the first search page
-* <b>parse</b> method scraps job data of the search page and then navigate to next page with callback
+* <b>start_urls</b> - url of the first search page
+* <b>parse</b> - scraping job data of the search page and then navigate to next page with callback
 
 ### 3. IndeedPipeline class
 
