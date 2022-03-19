@@ -2,9 +2,9 @@
 
 ### 1. About:
 
-This is a project crawling salary statistics from salary.com using standalone scrapy crawler and JASON.  
+This is a project crawling salary statistics from salary.com using standalone scrapy crawler and JSON.  
 
-The following are the fields the spider scrapes from the Salary.com
+The following are the fields that the spider scrapes from the Salary.com
 
 * job_title
 * location
