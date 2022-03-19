@@ -2,7 +2,7 @@
 
 ## About:
 
-  Python Scrapy spider that searches Amazon by keywords, collect product infomation, and output data to csv file. The spider will iterate pages returned by the keyword query. The following are the fields the spider scrapes from the Amazon product search page:
+  Python Scrapy spider that searches Amazon by keywords, collects product infomation, and outputs data to csv file. The spider will iterate pages returned by the keyword query. The following are the fields the spider scrapes from the Amazon product search page:
 
   * description
   * price 
