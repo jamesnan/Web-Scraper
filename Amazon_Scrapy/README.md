@@ -1,4 +1,4 @@
-# Amazon-python-scrapy-scraper 
+# Amazon-Scrapy-Scraper 
 
 ## About:
 
