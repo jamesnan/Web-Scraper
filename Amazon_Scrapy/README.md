@@ -42,8 +42,8 @@ The above steps will create a dirctory structure with following contents:
 
 ### 4. Edit AmazonProductSpider 
 
-* <b>start_urls</b> has url of the first search page
-* <b>parse</b> method scraps product data from the search page and then navigate to next page with callback.
+* <b>start_urls</b> - url of the first search page
+* <b>parse</b> - scraping product data from the search page and then navigate to next page with callback.
 
 ### 5. Run the scraper to collect data and output data to a csv file
     scrapy crawl AmazonSpider -o items.csv
