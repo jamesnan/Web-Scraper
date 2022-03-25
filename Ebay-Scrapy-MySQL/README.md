@@ -20,9 +20,6 @@ This is a project crawling ebay product information from ebay.com using python s
 ### 4. Run the scraper
      scrapy crawl ebaySpider
 
-### 5. Result
-![]('ebay-scrape.PNG')
 
-<img src="ebay-scrape.PNG" width="800">
 
 
