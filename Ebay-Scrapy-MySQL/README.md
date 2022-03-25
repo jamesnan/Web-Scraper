@@ -21,7 +21,7 @@ This is a project crawling ebay product information from ebay.com using python s
      scrapy crawl ebaySpider
 
 ### 5. Result
-![](ebay-scrape.PNG)
+![]('ebay-scrape.PNG')
 
 
 
