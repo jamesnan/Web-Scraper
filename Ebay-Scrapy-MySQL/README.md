@@ -1,4 +1,4 @@
-# Ebay-Scrapy-SQLite
+# Ebay-Scrapy-MySQL
 
 ### 1. About:
 
