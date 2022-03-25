@@ -23,5 +23,6 @@ This is a project crawling ebay product information from ebay.com using python s
 ### 5. Result
 ![]('ebay-scrape.PNG')
 
+<img src="ebay-scrape.PNG">
 
 
