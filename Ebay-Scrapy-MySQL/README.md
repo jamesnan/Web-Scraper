@@ -15,7 +15,7 @@ This is a project crawling ebay product information from ebay.com using python s
 
 ### 3. EbayPipeline class
 
-    After scraping data, scrapy calls EbayPipeline class to process data and save them to MySQL database.
+    After scraping data, scrapy calls EbayPipeline class to process data and save the result in MySQL database.
  
 ### 4. Run the scraper
      scrapy crawl ebaySpider
