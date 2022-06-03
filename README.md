@@ -1,6 +1,6 @@
 # Web Scraping Projects
 
-A collection of web scraping projects to practice scraping skills.
+A collection of web scraping projects using scarpy.
 
 | Project | Description |
 |---|---|
