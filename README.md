@@ -1,6 +1,6 @@
 # Web Scraping Projects
 
-A collection of web scraping projects using scarpy.
+A collection of web scraping projects using scarpy and Selenium.
 
 | Project | Description |
 |---|---|
